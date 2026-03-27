@@ -6,9 +6,6 @@ toward shorter certificate lifetimes and operational impact on enterprise enviro
 ## Contents
 
 - `/presentations` — Slide decks for reference and sharing
-- `/diagrams` — Architecture or flow diagrams
-- `/demos` — Recorded walkthroughs (coming soon)
-- `/labs` — Lab walkthroughs and examples
 - `/references` — Source references and research notes
 
 ## Key Topics
